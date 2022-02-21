@@ -1,0 +1,8 @@
+{
+  "name": "TuanNDA Chatible",
+  "description": "Chatible clone written in TypeScript, based on Node, Express and Mongo",
+  "repository": "https://github.com/tuannda98/tuanndachat",
+  "keywords": ["chatible", "node", "express", "typescript", "mongo"],
+  "success_url": "/",
+  "website": "https://m.me/VNUAChat"
+}
